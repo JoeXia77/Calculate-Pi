@@ -1,5 +1,5 @@
 # Calculate-Pi
-Aim: Calculate the value of Pi, 10000 digit accuracy or more
+Aim: Calculate the value of Pi, like 10000 digit accuracy
 
 Language: Python 3
 
