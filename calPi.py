@@ -1,7 +1,7 @@
 
 import decimal
 
-accuracyOfDigitsYouWant = 10000
+accuracyOfDigitsYouWant = 1000
 
 def calPi(accuracyOfDigits):
     work_context = decimal.getcontext()
