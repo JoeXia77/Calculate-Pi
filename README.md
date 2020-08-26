@@ -12,7 +12,7 @@ points I learned from programming it:
 	if you want keep it accurate at 10000th digit, how many loops you need to run 
   the conclusion is you need to run 10000 * 1.6590389016018308 + 20 (plus 20 for safty, you know float number is not that accurate and the tendency calculated by graph also has  a little error, so extra looping times are needed to achiece the result)
 	
-
+Note: it will take too much time to run 10000 digit accuracy currently, but under 3000 digits will be fine.
 
 
 
